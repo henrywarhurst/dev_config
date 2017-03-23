@@ -1,2 +1,2 @@
 # dev_config
-Screen and Vim configuration files
+GNU Screen and Vim configuration files
